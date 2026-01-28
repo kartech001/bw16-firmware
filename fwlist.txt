@@ -1,3 +1,4 @@
-v1.0 https://kartech001.github.io/bw16-firmware/km0_km4_image2_V1.bin
+v1.0 http://kartech001.github.io/bw16-firmware/km0_km4_image2_V1.bin
 
-v1.1 https://kartech001.github.io/bw16-firmware/firmware_v1.1.bin
+v1.1 http://kartech001.github.io/bw16-firmware/firmware_v1.1.bin
+
