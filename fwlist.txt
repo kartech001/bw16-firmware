@@ -1,6 +1,6 @@
 v1.0 http://192.168.1.70:8000/km0_km4_image2_v1.0.bin
 
-v1.1 http://192.168.1.70:8000/km0_km4_image2_v1.1.bin
+
 
 
 
